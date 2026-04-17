@@ -2,6 +2,11 @@
 
 A fully client-side resume builder that runs entirely in the browser. No server, no database, no installation needed — just open the HTML file and start building professional resumes.
 
+## Team name
+|ABDULLAH KHAN|160922733022|
+|GAZIUDDIN AIJAZ|160922733026|
+|SYED KHAJA MOINUDDIN|160922733031|
+
 ## Project Structure
 
 ```
